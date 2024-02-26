@@ -1,15 +1,15 @@
 {
-    "version": "0.10.0",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KusionStack/kusion/releases/download/v0.10.0/kusion_0.10.0_windows_amd64.zip",
+            "url": "https://github.com/healthjyk/kusion/releases/download/v0.1.2/kusion_0.1.2_windows_amd64.zip",
             "bin": [
                 "kusion.exe"
             ],
-            "hash": "c5af630dc3dbde613ea79974d51da8a5e0da983fb5eaf045d334549a1feb5d00"
+            "hash": "ef28df824df7f80bb25c881617b446291ce86e82a57fc8d36beeb3f9fe488b71"
         }
     },
-    "homepage": "http://github.com/KusionStack/kusion",
+    "homepage": "http://github.com/healthjyk/kusion",
     "license": "Apache License 2.0",
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
 }
